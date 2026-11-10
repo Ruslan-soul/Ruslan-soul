@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Привет! Я Руслан
 
-<!--
-**Ruslan-soul/Ruslan-soul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Developer | Telegram Bots & Automation
 
-Here are some ideas to get you started:
+Разрабатываю Telegram-ботов и инструменты автоматизации, которые помогают упростить рутинные задачи и работу с заявками.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Сейчас развиваюсь в Python, создаю проекты для портфолио и совершенствую навыки разработки.
+
+## 🛠 Технологии
+
+- **Python** — основной язык разработки
+- **aiogram 3** — разработка Telegram-ботов
+- **SQLite / aiosqlite** — работа с базами данных
+- **pytest** — автоматическое тестирование
+- **openpyxl** — экспорт данных в Excel
+- **Git / GitHub** — контроль версий
+
+## 🚀 Мои проекты
+
+### Telegram Application Bot
+
+Telegram-бот для автоматизации приёма и обработки заявок.
+
+**Возможности:**
+- Приём заявок через Telegram
+- Административная панель
+- Управление статусами заявок
+- Уведомления клиентам и администраторам
+- Поиск, фильтрация и статистика
+- Экспорт заявок в Excel
+- Резервное копирование базы данных
+
+**Технологии:** Python, aiogram 3, SQLite, aiosqlite, pytest.
+
+**Тестирование:** 102 успешно пройденных теста.
+
+👉 [Посмотреть проект на GitHub](https://github.com/Ruslan-soul/telegram-application-bot)
+
+## 🎯 Чем могу быть полезен
+
+- Разработка Telegram-ботов
+- Автоматизация приёма и обработки заявок
+- Создание ботов с базой данных
+- Интеграция уведомлений и административных функций
+
+## 📫 Контакты
+
+Связаться со мной можно через GitHub: [Ruslan-soul](https://github.com/Ruslan-soul)
+
+---
+
+*Постоянно учусь, практикуюсь и развиваюсь в Python-разработке.*
